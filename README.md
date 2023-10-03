@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antonijamatek
+- 👋 Hi, I’m @antonijamatek, and doing a PhD in biology at University of Zagreb, Croatia
 - 👀 I’m interested in data science- statistical analysis and visualization of biology-oceanographic data sets.
 - 🌱 I’m currently learning modelling primary production and light using in situ data from South Adriatic Sea.
 - 💞️ I’m looking to collaborate on expanding my knowledge in coding of numerical models for phytoplankton, primary production, food webs, and ocean colour remote sensing algorithms.
